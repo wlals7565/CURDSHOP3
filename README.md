@@ -1,20 +1,15 @@
 # api요청 기본 주소
-- http://54.180.93.135:8000
+- http://13.125.84.111
 
 # 환경변수
 - JWT_SECRET = JWT토큰 사인 키
-- NODE_ENV = 서버 환경
-- DATABASE = 데이터베이스 테이블 이름
-- USERID = 데이터베이스 사용자 이름
-- PASSWORD = 데이터베이스 비밀번호
-- PORT = 데이터베이스 포트
-- HOST = 데이터베이스 엔드포인트
+- DATABASE_URL= 데이터베이스 URL
 
 # API 명세서 URL
-https://docs.google.com/spreadsheets/d/1_l5w51vSck-Mbr1m_vbav3I7TUnQ0H6_/edit?usp=sharing&ouid=105948135097244283083&rtpof=true&sd=true
+- http://13.125.84.111/api-docs
 
 # ERD URL
-https://www.erdcloud.com/p/ccGQ9KmHhryMCg8NQ
+- https://www.erdcloud.com/p/ccGQ9KmHhryMCg8NQ
 
 # 더 고민해 보기
 
