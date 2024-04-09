@@ -3,7 +3,14 @@
 - 배경: API를 만들어보는 일은 많이 해봤으나 API 문서화는 잘 하지 않아 이번 기회에 도전
 - 참여 인원: 1명(개인 프로젝트)
 - 역할: 상점을 모델링하여 API 설계 및 Swagger를 이용한 API 문서화
-- 진행 기간: 
+- 진행 기간: 약 3일
+
+# 기술 스택
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 # api요청 기본 주소
 - http://13.125.84.111
 
@@ -16,6 +23,11 @@
 
 # ERD URL
 - https://www.erdcloud.com/p/ccGQ9KmHhryMCg8NQ
+
+# 프로젝트 회고
+- Swagger를 통해 API문서를 만들어주는 도구가 있고 편리하긴 하지만 시간이 너무 오래 걸린다.
+- NestJS 같은 경우는 API 코드만 잘 만들어두면 Swagger문서가 자동으로 완성된다고 한다. NestJS를 배우는 것이 도움이 될 것 같다.
+- 그래도 API 문서가 보기 좋고 문제 없이 작동된다는 것을 확인했다.
 
 # 더 고민해 보기
 
